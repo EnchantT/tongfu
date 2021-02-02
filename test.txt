@@ -1,2 +1,5 @@
 hello world
 print hello kitty
+xixi
+huahua
+lala
