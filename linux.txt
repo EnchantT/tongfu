@@ -1,3 +1,3 @@
 linux hello
 go to school
-printf() //branch by hot_
+printf() //master and hot  branch 
