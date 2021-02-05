@@ -1,3 +1,4 @@
 linux hello
 go to school
-printf() //master and hot  branch 
+printf() //master and hot  branch
+i am linghuchong!
